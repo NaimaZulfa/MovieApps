@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieApps</string>
+
+    <string name="button_About">Tentang</string>
+    <string name="button_Movie">Direktori Film</string>
+    <string name="button_Lang">Pilihan Bahasa</string>
+
+    <string name="tx_datadiri">Data Diri</string>
+    <string name="tx_nama">Nama : Naima Zulfa</string>
+    <string name="tx_nim">NIM : 19.11.2735</string>
+</resources>

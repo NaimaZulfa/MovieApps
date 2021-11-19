@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApps</string>
+    
+    <string name="button_About">About</string>
+    <string name="button_Movie">Movie Directory</string>
+    <string name="button_Lang">Language Preference</string>
+
+    <string name="tx_datadiri">Personal Data</string>
+    <string name="tx_nama">Name : Naima Zulfa</string>
+    <string name="tx_nim">Students Number : 19.11.2735</string>
+    
+</resources>
